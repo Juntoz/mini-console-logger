@@ -1,6 +1,6 @@
 {
   "name": "@juntoz/mini-console-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mini logger to the console with colors",
   "main": "index.js",
   "scripts": {
