@@ -1,0 +1,27 @@
+{
+  "name": "@juntoz/mini-console-logger",
+  "version": "1.0.0",
+  "description": "Mini logger to the console with colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juntoz/mini-console-logger.git"
+  },
+  "keywords": [
+    "juntoz",
+    "logger",
+    "logging",
+    "console",
+    "colors",
+    "nodejs"
+  ],
+  "author": "Juntoz.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juntoz/mini-console-logger/issues"
+  },
+  "homepage": "https://github.com/Juntoz/mini-console-logger#readme"
+}
