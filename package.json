@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Juntoz/mini-console-logger/issues"
   },
-  "homepage": "https://github.com/Juntoz/mini-console-logger#readme"
+  "homepage": "https://github.com/Juntoz/mini-console-logger#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
 }
